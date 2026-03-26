@@ -1,0 +1,13 @@
+# Environnement
+etl_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Fichiers générés
+data/cleaned_data.csv
+data/aggregated_data.csv
