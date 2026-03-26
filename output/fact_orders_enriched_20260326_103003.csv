@@ -1,0 +1,456 @@
+order_id,customer_id,product_name,amount,order_date,email,signup_date,country,days_since_signup,is_premium,etl_timestamp
+ORD-93810,8,Laptop Pro 15,744.12,2024-05-05,hugo.durand@dataretail.com,2021-07-24,Tunisie,1016,True,2026-03-26 10:30:03.543274
+ORD-38657,15,Disque SSD 1To,605.99,2024-10-14,océane.garcia@dataretail.com,2023-05-21,Maroc,512,False,2026-03-26 10:30:03.543274
+ORD-30926,45,Hub USB-C,346.84,2024-03-20,tiffany.gauthier@dataretail.com,2023-08-03,France,230,False,2026-03-26 10:30:03.543274
+ORD-23396,6,Hub USB-C,105.74,2024-06-25,françois.richard@dataretail.com,2022-06-28,Belgique,728,True,2026-03-26 10:30:03.543274
+ORD-70217,35,Souris sans fil,973.37,2024-07-12,isabelle.blanc@dataretail.com,2021-05-27,Luxembourg,1142,False,2026-03-26 10:30:03.543274
+ORD-92397,40,Scanner portable,863.08,2024-10-22,nathan.nicolas@dataretail.com,2022-10-18,Canada,735,False,2026-03-26 10:30:03.543274
+ORD-96673,15,Stylet tactile,296.48,2024-02-10,océane.garcia@dataretail.com,2023-05-21,Maroc,265,False,2026-03-26 10:30:03.543274
+ORD-59823,18,Tapis de souris XL,639.32,2024-07-05,rachel.roux@dataretail.com,2022-02-17,France,869,False,2026-03-26 10:30:03.543274
+ORD-97841,18,Support PC portable,937.28,2024-11-27,rachel.roux@dataretail.com,2022-02-17,France,1014,False,2026-03-26 10:30:03.543274
+ORD-80010,47,"Écran 27""",171.76,2024-07-13,valérie.lopez@dataretail.com,2022-09-15,Tunisie,667,False,2026-03-26 10:30:03.543274
+ORD-83000,15,Chargeur rapide,331.03,2024-01-29,océane.garcia@dataretail.com,2023-05-21,Maroc,253,False,2026-03-26 10:30:03.543274
+ORD-51347,26,Casque Bluetooth,75.52,2024-10-17,zoé.dupont@dataretail.com,2021-08-10,Suisse,1164,False,2026-03-26 10:30:03.543274
+ORD-95909,32,Hub USB-C,885.83,2024-11-25,fanny.garnier@dataretail.com,2022-05-01,Tunisie,939,False,2026-03-26 10:30:03.543274
+ORD-42325,48,Disque SSD 1To,543.58,2024-10-26,william.fontaine@dataretail.com,2021-05-08,Belgique,1267,False,2026-03-26 10:30:03.543274
+ORD-57447,15,Clavier mécanique,514.42,2024-02-16,océane.garcia@dataretail.com,2023-05-21,Maroc,271,False,2026-03-26 10:30:03.543274
+ORD-30033,41,Clavier mécanique,794.15,2024-08-04,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,858,False,2026-03-26 10:30:03.543274
+ORD-25014,44,Scanner portable,541.59,2024-05-16,samuel.clement@dataretail.com,2021-12-29,Sénégal,869,False,2026-03-26 10:30:03.543274
+ORD-48469,28,Clavier mécanique,459.18,2024-05-14,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,620,False,2026-03-26 10:30:03.543274
+ORD-76542,7,Imprimante laser,629.04,2024-11-23,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,462,True,2026-03-26 10:30:03.543274
+ORD-59009,49,Clavier mécanique,543.98,2024-09-28,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1245,False,2026-03-26 10:30:03.543274
+ORD-74042,2,Souris sans fil,929.8,2024-06-06,bob.bernard@dataretail.com,2021-07-24,Suisse,1048,True,2026-03-26 10:30:03.543274
+ORD-84364,6,Souris sans fil,734.58,2024-02-05,françois.richard@dataretail.com,2022-06-28,Belgique,587,True,2026-03-26 10:30:03.543274
+ORD-26483,9,Chargeur rapide,480.52,2024-10-08,inès.leroy@dataretail.com,2023-01-10,Canada,637,True,2026-03-26 10:30:03.543274
+ORD-89507,28,"Écran 27""",929.61,2024-12-19,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,839,False,2026-03-26 10:30:03.543274
+ORD-98039,42,Webcam HD,443.71,2024-09-21,patrick.morin@dataretail.com,2022-07-13,Tunisie,801,False,2026-03-26 10:30:03.543274
+ORD-92719,4,"Écran 27""",76.72,2024-01-17,david.thomas@dataretail.com,2021-05-17,Belgique,975,True,2026-03-26 10:30:03.543274
+ORD-41195,18,Chargeur rapide,490.55,2024-10-03,rachel.roux@dataretail.com,2022-02-17,France,959,False,2026-03-26 10:30:03.543274
+ORD-84847,37,Tapis de souris XL,250.56,2024-08-30,karen.muller@dataretail.com,2022-01-26,Maroc,947,False,2026-03-26 10:30:03.543274
+ORD-22704,43,Hub USB-C,360.74,2024-07-29,roxane.mathieu@dataretail.com,2023-04-25,Suisse,461,False,2026-03-26 10:30:03.543274
+ORD-98259,42,Chargeur rapide,107.42,2024-07-25,patrick.morin@dataretail.com,2022-07-13,Tunisie,743,False,2026-03-26 10:30:03.543274
+ORD-24322,16,"Écran 27""",198.3,2024-08-17,pierre.david@dataretail.com,2021-03-26,Belgique,1240,False,2026-03-26 10:30:03.543274
+ORD-70637,16,Imprimante laser,924.02,2024-08-14,pierre.david@dataretail.com,2021-03-26,Belgique,1237,False,2026-03-26 10:30:03.543274
+ORD-22833,4,Chargeur rapide,999.28,2024-01-08,david.thomas@dataretail.com,2021-05-17,Belgique,966,True,2026-03-26 10:30:03.543274
+ORD-40982,11,Hub USB-C,490.77,2024-04-19,karine.simon@dataretail.com,2023-04-23,Tunisie,362,False,2026-03-26 10:30:03.543274
+ORD-31579,25,Laptop Pro 15,985.45,2024-05-15,yasmine.mercier@dataretail.com,2022-01-02,Suisse,864,False,2026-03-26 10:30:03.543274
+ORD-47388,28,Support PC portable,957.73,2024-10-11,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,770,False,2026-03-26 10:30:03.543274
+ORD-34890,19,"Écran 27""",969.01,2024-10-23,sébastien.vincent@dataretail.com,2021-10-03,France,1116,False,2026-03-26 10:30:03.543274
+ORD-51104,4,Laptop Pro 15,588.33,2024-09-14,david.thomas@dataretail.com,2021-05-17,Belgique,1216,True,2026-03-26 10:30:03.543274
+ORD-17455,33,Souris sans fil,852.82,2024-02-05,guillaume.faure@dataretail.com,2021-03-25,Tunisie,1047,False,2026-03-26 10:30:03.543274
+ORD-40828,26,Souris sans fil,942.17,2024-10-18,zoé.dupont@dataretail.com,2021-08-10,Suisse,1165,False,2026-03-26 10:30:03.543274
+ORD-91183,6,Hub USB-C,660.79,2024-10-16,françois.richard@dataretail.com,2022-06-28,Belgique,841,True,2026-03-26 10:30:03.543274
+ORD-36772,43,Support PC portable,321.03,2024-05-15,roxane.mathieu@dataretail.com,2023-04-25,Suisse,386,False,2026-03-26 10:30:03.543274
+ORD-83792,7,Souris sans fil,542.25,2024-09-16,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,394,True,2026-03-26 10:30:03.543274
+ORD-19016,16,Webcam HD,292.13,2024-08-12,pierre.david@dataretail.com,2021-03-26,Belgique,1235,False,2026-03-26 10:30:03.543274
+ORD-90173,42,Disque SSD 1To,17.73,2024-10-10,patrick.morin@dataretail.com,2022-07-13,Tunisie,820,False,2026-03-26 10:30:03.543274
+ORD-27601,17,Souris sans fil,890.81,2024-10-10,quentin.bertrand@dataretail.com,2022-04-26,Maroc,898,False,2026-03-26 10:30:03.543274
+ORD-37607,46,Webcam HD,211.55,2024-11-20,ugo.dumont@dataretail.com,2021-05-15,Suisse,1285,False,2026-03-26 10:30:03.543274
+ORD-27146,41,Casque Bluetooth,169.96,2024-08-14,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,868,False,2026-03-26 10:30:03.543274
+ORD-11267,8,Souris sans fil,945.59,2024-12-19,hugo.durand@dataretail.com,2021-07-24,Tunisie,1244,True,2026-03-26 10:30:03.543274
+ORD-15229,23,"Écran 27""",685.24,2024-12-07,wendy.andré@dataretail.com,2022-09-13,Sénégal,816,False,2026-03-26 10:30:03.543274
+ORD-63264,40,Support PC portable,163.0,2024-05-01,nathan.nicolas@dataretail.com,2022-10-18,Canada,561,False,2026-03-26 10:30:03.543274
+ORD-33206,27,Laptop Pro 15,187.56,2024-06-19,antoine.lambert@dataretail.com,2023-02-05,Sénégal,500,False,2026-03-26 10:30:03.543274
+ORD-97806,48,Stylet tactile,255.68,2024-03-22,william.fontaine@dataretail.com,2021-05-08,Belgique,1049,False,2026-03-26 10:30:03.543274
+ORD-15075,31,"Écran 27""",207.57,2024-08-23,edouard.legrand@dataretail.com,2021-01-24,Suisse,1307,False,2026-03-26 10:30:03.543274
+ORD-39831,15,Laptop Pro 15,663.42,2024-07-23,océane.garcia@dataretail.com,2023-05-21,Maroc,429,False,2026-03-26 10:30:03.543274
+ORD-46585,23,Chargeur rapide,514.3,2024-12-13,wendy.andré@dataretail.com,2022-09-13,Sénégal,822,False,2026-03-26 10:30:03.543274
+ORD-13617,8,Scanner portable,970.69,2024-04-01,hugo.durand@dataretail.com,2021-07-24,Tunisie,982,True,2026-03-26 10:30:03.543274
+ORD-15014,7,RAM 16Go,440.21,2024-06-09,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,295,True,2026-03-26 10:30:03.543274
+ORD-78146,35,Chargeur rapide,722.23,2024-12-09,isabelle.blanc@dataretail.com,2021-05-27,Luxembourg,1292,False,2026-03-26 10:30:03.543274
+ORD-97062,22,RAM 16Go,320.77,2024-03-04,victor.girard@dataretail.com,2022-04-19,Canada,685,False,2026-03-26 10:30:03.543274
+ORD-50538,43,Hub USB-C,332.91,2024-12-22,roxane.mathieu@dataretail.com,2023-04-25,Suisse,607,False,2026-03-26 10:30:03.543274
+ORD-65108,43,Hub USB-C,680.53,2024-03-30,roxane.mathieu@dataretail.com,2023-04-25,Suisse,340,False,2026-03-26 10:30:03.543274
+ORD-81819,1,Casque Bluetooth,294.03,2024-08-08,alice.martin@dataretail.com,2022-02-18,Tunisie,902,True,2026-03-26 10:30:03.543274
+ORD-52237,30,Tapis de souris XL,447.73,2024-04-19,diane.martinez@dataretail.com,2021-02-07,Belgique,1167,False,2026-03-26 10:30:03.543274
+ORD-32241,43,Souris sans fil,290.94,2024-12-05,roxane.mathieu@dataretail.com,2023-04-25,Suisse,590,False,2026-03-26 10:30:03.543274
+ORD-40784,44,Casque Bluetooth,232.38,2024-04-11,samuel.clement@dataretail.com,2021-12-29,Sénégal,834,False,2026-03-26 10:30:03.543274
+ORD-72277,40,Imprimante laser,770.79,2024-08-21,nathan.nicolas@dataretail.com,2022-10-18,Canada,673,False,2026-03-26 10:30:03.543274
+ORD-35485,46,Support PC portable,390.13,2024-07-23,ugo.dumont@dataretail.com,2021-05-15,Suisse,1165,False,2026-03-26 10:30:03.543274
+ORD-10726,49,Imprimante laser,772.34,2024-02-24,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1028,False,2026-03-26 10:30:03.543274
+ORD-77889,30,Laptop Pro 15,561.82,2024-03-03,diane.martinez@dataretail.com,2021-02-07,Belgique,1120,False,2026-03-26 10:30:03.543274
+ORD-97500,34,Disque SSD 1To,599.49,2024-08-14,hélène.rousseau@dataretail.com,2022-10-10,Belgique,674,False,2026-03-26 10:30:03.543274
+ORD-76162,28,Imprimante laser,907.78,2024-08-16,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,714,False,2026-03-26 10:30:03.543274
+ORD-72216,29,Casque Bluetooth,754.25,2024-11-22,charles.françois@dataretail.com,2023-08-25,Suisse,455,False,2026-03-26 10:30:03.543274
+ORD-73517,41,"Écran 27""",281.84,2024-02-09,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,681,False,2026-03-26 10:30:03.543274
+ORD-54020,21,Scanner portable,544.74,2024-03-11,ursula.morel@dataretail.com,2022-01-07,Belgique,794,False,2026-03-26 10:30:03.543274
+ORD-30028,46,"Écran 27""",73.58,2024-07-27,ugo.dumont@dataretail.com,2021-05-15,Suisse,1169,False,2026-03-26 10:30:03.543274
+ORD-85456,25,Tapis de souris XL,15.83,2024-06-29,yasmine.mercier@dataretail.com,2022-01-02,Suisse,909,False,2026-03-26 10:30:03.543274
+ORD-64921,35,Support PC portable,737.28,2024-11-04,isabelle.blanc@dataretail.com,2021-05-27,Luxembourg,1257,False,2026-03-26 10:30:03.543274
+ORD-45774,28,Tapis de souris XL,38.72,2024-06-21,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,658,False,2026-03-26 10:30:03.543274
+ORD-31632,30,Scanner portable,136.34,2024-11-14,diane.martinez@dataretail.com,2021-02-07,Belgique,1376,False,2026-03-26 10:30:03.543274
+ORD-87580,37,Chargeur rapide,36.82,2024-11-25,karen.muller@dataretail.com,2022-01-26,Maroc,1034,False,2026-03-26 10:30:03.543274
+ORD-33819,4,Casque Bluetooth,385.3,2024-04-18,david.thomas@dataretail.com,2021-05-17,Belgique,1067,True,2026-03-26 10:30:03.543274
+ORD-59692,18,Stylet tactile,951.68,2024-08-03,rachel.roux@dataretail.com,2022-02-17,France,898,False,2026-03-26 10:30:03.543274
+ORD-12540,48,Disque SSD 1To,61.55,2024-06-28,william.fontaine@dataretail.com,2021-05-08,Belgique,1147,False,2026-03-26 10:30:03.543274
+ORD-29973,16,Clavier mécanique,478.82,2024-02-28,pierre.david@dataretail.com,2021-03-26,Belgique,1069,False,2026-03-26 10:30:03.543274
+ORD-43586,50,Webcam HD,176.1,2024-11-06,yann.robin@dataretail.com,2021-10-31,Suisse,1102,False,2026-03-26 10:30:03.543274
+ORD-31465,20,Souris sans fil,582.89,2024-06-08,théo.fournier@dataretail.com,2022-03-12,Canada,819,False,2026-03-26 10:30:03.543274
+ORD-59192,26,Support PC portable,206.34,2024-10-30,zoé.dupont@dataretail.com,2021-08-10,Suisse,1177,False,2026-03-26 10:30:03.543274
+ORD-23356,45,Stylet tactile,308.56,2024-12-16,tiffany.gauthier@dataretail.com,2023-08-03,France,501,False,2026-03-26 10:30:03.543274
+ORD-84177,3,Webcam HD,537.41,2024-12-04,claire.dubois@dataretail.com,2021-08-24,Canada,1198,True,2026-03-26 10:30:03.543274
+ORD-54725,1,Imprimante laser,425.85,2024-09-07,alice.martin@dataretail.com,2022-02-18,Tunisie,932,True,2026-03-26 10:30:03.543274
+ORD-93307,30,Support PC portable,161.45,2024-03-31,diane.martinez@dataretail.com,2021-02-07,Belgique,1148,False,2026-03-26 10:30:03.543274
+ORD-45400,40,Stylet tactile,920.41,2024-09-04,nathan.nicolas@dataretail.com,2022-10-18,Canada,687,False,2026-03-26 10:30:03.543274
+ORD-87656,18,Webcam HD,853.19,2024-02-14,rachel.roux@dataretail.com,2022-02-17,France,727,False,2026-03-26 10:30:03.543274
+ORD-33834,32,"Écran 27""",361.27,2024-05-12,fanny.garnier@dataretail.com,2022-05-01,Tunisie,742,False,2026-03-26 10:30:03.543274
+ORD-46211,36,Laptop Pro 15,521.45,2024-04-07,jérémy.guerin@dataretail.com,2022-09-25,France,560,False,2026-03-26 10:30:03.543274
+ORD-74038,36,Stylet tactile,247.91,2024-08-31,jérémy.guerin@dataretail.com,2022-09-25,France,706,False,2026-03-26 10:30:03.543274
+ORD-12260,6,Casque Bluetooth,229.37,2024-12-20,françois.richard@dataretail.com,2022-06-28,Belgique,906,True,2026-03-26 10:30:03.543274
+ORD-58368,31,Disque SSD 1To,535.6,2024-08-05,edouard.legrand@dataretail.com,2021-01-24,Suisse,1289,False,2026-03-26 10:30:03.543274
+ORD-56112,45,Tapis de souris XL,278.2,2024-05-08,tiffany.gauthier@dataretail.com,2023-08-03,France,279,False,2026-03-26 10:30:03.543274
+ORD-51359,8,Support PC portable,540.5,2024-12-19,hugo.durand@dataretail.com,2021-07-24,Tunisie,1244,True,2026-03-26 10:30:03.543274
+ORD-73464,18,Support PC portable,593.68,2024-09-25,rachel.roux@dataretail.com,2022-02-17,France,951,False,2026-03-26 10:30:03.543274
+ORD-45954,3,Laptop Pro 15,557.82,2024-12-23,claire.dubois@dataretail.com,2021-08-24,Canada,1217,True,2026-03-26 10:30:03.543274
+ORD-74340,7,Imprimante laser,22.13,2024-05-25,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,280,True,2026-03-26 10:30:03.543274
+ORD-34164,4,Casque Bluetooth,941.64,2024-09-01,david.thomas@dataretail.com,2021-05-17,Belgique,1203,True,2026-03-26 10:30:03.543274
+ORD-74454,5,RAM 16Go,633.14,2024-01-28,emma.robert@dataretail.com,2021-09-15,Tunisie,865,True,2026-03-26 10:30:03.543274
+ORD-49824,6,"Écran 27""",127.26,2024-08-01,françois.richard@dataretail.com,2022-06-28,Belgique,765,True,2026-03-26 10:30:03.543274
+ORD-39581,50,Disque SSD 1To,386.56,2024-08-14,yann.robin@dataretail.com,2021-10-31,Suisse,1018,False,2026-03-26 10:30:03.543274
+ORD-66207,20,RAM 16Go,624.81,2024-11-08,théo.fournier@dataretail.com,2022-03-12,Canada,972,False,2026-03-26 10:30:03.543274
+ORD-37235,41,"Écran 27""",271.99,2024-02-11,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,683,False,2026-03-26 10:30:03.543274
+ORD-19838,11,Laptop Pro 15,414.42,2024-12-18,karine.simon@dataretail.com,2023-04-23,Tunisie,605,False,2026-03-26 10:30:03.543274
+ORD-40340,19,Support PC portable,289.88,2024-08-20,sébastien.vincent@dataretail.com,2021-10-03,France,1052,False,2026-03-26 10:30:03.543274
+ORD-44675,41,RAM 16Go,664.56,2024-04-11,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,743,False,2026-03-26 10:30:03.543274
+ORD-94886,10,Scanner portable,272.97,2024-03-13,julien.moreau@dataretail.com,2023-03-23,Maroc,356,True,2026-03-26 10:30:03.543274
+ORD-50319,39,Support PC portable,825.99,2024-05-27,mathilde.roussel@dataretail.com,2021-07-25,France,1037,False,2026-03-26 10:30:03.543274
+ORD-49857,45,Hub USB-C,943.24,2024-09-13,tiffany.gauthier@dataretail.com,2023-08-03,France,407,False,2026-03-26 10:30:03.543274
+ORD-40005,44,Imprimante laser,861.9,2024-10-27,samuel.clement@dataretail.com,2021-12-29,Sénégal,1033,False,2026-03-26 10:30:03.543274
+ORD-98117,18,RAM 16Go,49.82,2024-03-30,rachel.roux@dataretail.com,2022-02-17,France,772,False,2026-03-26 10:30:03.543274
+ORD-46458,12,RAM 16Go,441.52,2024-09-08,lucas.laurent@dataretail.com,2023-06-02,Canada,464,False,2026-03-26 10:30:03.543274
+ORD-63523,22,Webcam HD,673.42,2024-03-23,victor.girard@dataretail.com,2022-04-19,Canada,704,False,2026-03-26 10:30:03.543274
+ORD-43082,21,Souris sans fil,970.47,2024-07-25,ursula.morel@dataretail.com,2022-01-07,Belgique,930,False,2026-03-26 10:30:03.543274
+ORD-10150,43,Imprimante laser,547.16,2024-07-30,roxane.mathieu@dataretail.com,2023-04-25,Suisse,462,False,2026-03-26 10:30:03.543274
+ORD-91609,49,Tapis de souris XL,629.14,2024-01-27,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1000,False,2026-03-26 10:30:03.543274
+ORD-41365,46,Clavier mécanique,317.63,2024-01-08,ugo.dumont@dataretail.com,2021-05-15,Suisse,968,False,2026-03-26 10:30:03.543274
+ORD-24871,30,Souris sans fil,651.22,2024-03-19,diane.martinez@dataretail.com,2021-02-07,Belgique,1136,False,2026-03-26 10:30:03.543274
+ORD-76698,46,Casque Bluetooth,421.33,2024-09-04,ugo.dumont@dataretail.com,2021-05-15,Suisse,1208,False,2026-03-26 10:30:03.543274
+ORD-82255,10,Hub USB-C,198.69,2024-11-02,julien.moreau@dataretail.com,2023-03-23,Maroc,590,True,2026-03-26 10:30:03.543274
+ORD-19150,18,Stylet tactile,792.1,2024-07-31,rachel.roux@dataretail.com,2022-02-17,France,895,False,2026-03-26 10:30:03.543274
+ORD-45018,1,Casque Bluetooth,728.78,2024-10-27,alice.martin@dataretail.com,2022-02-18,Tunisie,982,True,2026-03-26 10:30:03.543274
+ORD-29476,29,Disque SSD 1To,489.49,2024-06-19,charles.françois@dataretail.com,2023-08-25,Suisse,299,False,2026-03-26 10:30:03.543274
+ORD-69682,21,Imprimante laser,196.76,2024-12-23,ursula.morel@dataretail.com,2022-01-07,Belgique,1081,False,2026-03-26 10:30:03.543274
+ORD-63841,3,Webcam HD,747.25,2024-12-27,claire.dubois@dataretail.com,2021-08-24,Canada,1221,True,2026-03-26 10:30:03.543274
+ORD-96991,42,Clavier mécanique,500.37,2024-01-19,patrick.morin@dataretail.com,2022-07-13,Tunisie,555,False,2026-03-26 10:30:03.543274
+ORD-53515,7,Imprimante laser,846.58,2024-02-21,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,186,True,2026-03-26 10:30:03.543274
+ORD-28894,27,Imprimante laser,658.22,2024-03-20,antoine.lambert@dataretail.com,2023-02-05,Sénégal,409,False,2026-03-26 10:30:03.543274
+ORD-44737,22,RAM 16Go,695.77,2024-11-28,victor.girard@dataretail.com,2022-04-19,Canada,954,False,2026-03-26 10:30:03.543274
+ORD-98389,35,Hub USB-C,954.59,2024-11-16,isabelle.blanc@dataretail.com,2021-05-27,Luxembourg,1269,False,2026-03-26 10:30:03.543274
+ORD-80912,3,RAM 16Go,77.73,2024-11-19,claire.dubois@dataretail.com,2021-08-24,Canada,1183,True,2026-03-26 10:30:03.543274
+ORD-39817,48,Souris sans fil,439.62,2024-02-20,william.fontaine@dataretail.com,2021-05-08,Belgique,1018,False,2026-03-26 10:30:03.543274
+ORD-48452,23,Webcam HD,436.37,2024-05-05,wendy.andré@dataretail.com,2022-09-13,Sénégal,600,False,2026-03-26 10:30:03.543274
+ORD-33600,11,Clavier mécanique,88.17,2024-07-14,karine.simon@dataretail.com,2023-04-23,Tunisie,448,False,2026-03-26 10:30:03.543274
+ORD-86435,10,"Écran 27""",466.53,2024-05-10,julien.moreau@dataretail.com,2023-03-23,Maroc,414,True,2026-03-26 10:30:03.543274
+ORD-70981,19,Chargeur rapide,551.12,2024-02-07,sébastien.vincent@dataretail.com,2021-10-03,France,857,False,2026-03-26 10:30:03.543274
+ORD-87014,20,Chargeur rapide,962.4,2024-12-19,théo.fournier@dataretail.com,2022-03-12,Canada,1013,False,2026-03-26 10:30:03.543274
+ORD-36111,25,Imprimante laser,488.37,2024-05-01,yasmine.mercier@dataretail.com,2022-01-02,Suisse,850,False,2026-03-26 10:30:03.543274
+ORD-99889,50,Support PC portable,973.86,2024-11-06,yann.robin@dataretail.com,2021-10-31,Suisse,1102,False,2026-03-26 10:30:03.543274
+ORD-47512,50,Stylet tactile,237.81,2024-06-29,yann.robin@dataretail.com,2021-10-31,Suisse,972,False,2026-03-26 10:30:03.543274
+ORD-42850,44,Stylet tactile,723.71,2024-12-03,samuel.clement@dataretail.com,2021-12-29,Sénégal,1070,False,2026-03-26 10:30:03.543274
+ORD-27224,6,Scanner portable,302.15,2024-07-31,françois.richard@dataretail.com,2022-06-28,Belgique,764,True,2026-03-26 10:30:03.543274
+ORD-80701,24,Disque SSD 1To,506.77,2024-05-19,xavier.lefevre@dataretail.com,2023-09-28,France,234,False,2026-03-26 10:30:03.543274
+ORD-73156,19,Support PC portable,871.68,2024-02-28,sébastien.vincent@dataretail.com,2021-10-03,France,878,False,2026-03-26 10:30:03.543274
+ORD-39571,44,Support PC portable,677.65,2024-07-22,samuel.clement@dataretail.com,2021-12-29,Sénégal,936,False,2026-03-26 10:30:03.543274
+ORD-57942,6,Stylet tactile,400.62,2024-05-15,françois.richard@dataretail.com,2022-06-28,Belgique,687,True,2026-03-26 10:30:03.543274
+ORD-98188,48,Chargeur rapide,269.53,2024-07-14,william.fontaine@dataretail.com,2021-05-08,Belgique,1163,False,2026-03-26 10:30:03.543274
+ORD-24201,44,"Écran 27""",476.75,2024-11-13,samuel.clement@dataretail.com,2021-12-29,Sénégal,1050,False,2026-03-26 10:30:03.543274
+ORD-89964,15,Chargeur rapide,72.57,2024-08-25,océane.garcia@dataretail.com,2023-05-21,Maroc,462,False,2026-03-26 10:30:03.543274
+ORD-63516,8,Clavier mécanique,54.88,2024-01-20,hugo.durand@dataretail.com,2021-07-24,Tunisie,910,True,2026-03-26 10:30:03.543274
+ORD-22739,16,Scanner portable,542.16,2024-07-17,pierre.david@dataretail.com,2021-03-26,Belgique,1209,False,2026-03-26 10:30:03.543274
+ORD-80804,27,RAM 16Go,744.84,2024-03-20,antoine.lambert@dataretail.com,2023-02-05,Sénégal,409,False,2026-03-26 10:30:03.543274
+ORD-68115,29,"Écran 27""",856.89,2024-02-20,charles.françois@dataretail.com,2023-08-25,Suisse,179,False,2026-03-26 10:30:03.543274
+ORD-94518,23,Laptop Pro 15,404.15,2024-04-07,wendy.andré@dataretail.com,2022-09-13,Sénégal,572,False,2026-03-26 10:30:03.543274
+ORD-53713,16,Clavier mécanique,789.1,2024-04-15,pierre.david@dataretail.com,2021-03-26,Belgique,1116,False,2026-03-26 10:30:03.543274
+ORD-37152,38,"Écran 27""",814.91,2024-04-29,laurent.henry@dataretail.com,2021-05-20,Tunisie,1075,False,2026-03-26 10:30:03.543274
+ORD-88116,1,Casque Bluetooth,859.81,2024-03-15,alice.martin@dataretail.com,2022-02-18,Tunisie,756,True,2026-03-26 10:30:03.543274
+ORD-41186,38,Webcam HD,25.61,2024-05-15,laurent.henry@dataretail.com,2021-05-20,Tunisie,1091,False,2026-03-26 10:30:03.543274
+ORD-78955,8,Support PC portable,72.91,2024-08-17,hugo.durand@dataretail.com,2021-07-24,Tunisie,1120,True,2026-03-26 10:30:03.543274
+ORD-96363,34,Casque Bluetooth,463.45,2024-01-16,hélène.rousseau@dataretail.com,2022-10-10,Belgique,463,False,2026-03-26 10:30:03.543274
+ORD-62640,28,Chargeur rapide,116.87,2024-12-30,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,850,False,2026-03-26 10:30:03.543274
+ORD-20589,21,RAM 16Go,156.84,2024-03-05,ursula.morel@dataretail.com,2022-01-07,Belgique,788,False,2026-03-26 10:30:03.543274
+ORD-81874,46,Webcam HD,387.09,2024-11-01,ugo.dumont@dataretail.com,2021-05-15,Suisse,1266,False,2026-03-26 10:30:03.543274
+ORD-89354,28,Souris sans fil,795.16,2024-02-28,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,544,False,2026-03-26 10:30:03.543274
+ORD-82264,47,Imprimante laser,222.86,2024-08-19,valérie.lopez@dataretail.com,2022-09-15,Tunisie,704,False,2026-03-26 10:30:03.543274
+ORD-69441,26,Hub USB-C,732.31,2024-06-09,zoé.dupont@dataretail.com,2021-08-10,Suisse,1034,False,2026-03-26 10:30:03.543274
+ORD-59060,10,Chargeur rapide,923.75,2024-02-04,julien.moreau@dataretail.com,2023-03-23,Maroc,318,True,2026-03-26 10:30:03.543274
+ORD-66606,7,Support PC portable,741.4,2024-03-07,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,201,True,2026-03-26 10:30:03.543274
+ORD-83608,36,Webcam HD,673.3,2024-07-29,jérémy.guerin@dataretail.com,2022-09-25,France,673,False,2026-03-26 10:30:03.543274
+ORD-65435,47,Laptop Pro 15,968.7,2024-11-03,valérie.lopez@dataretail.com,2022-09-15,Tunisie,780,False,2026-03-26 10:30:03.543274
+ORD-76507,14,Clavier mécanique,660.16,2024-04-24,nicolas.michel@dataretail.com,2022-11-08,Suisse,533,False,2026-03-26 10:30:03.543274
+ORD-82910,24,Souris sans fil,764.97,2024-10-20,xavier.lefevre@dataretail.com,2023-09-28,France,388,False,2026-03-26 10:30:03.543274
+ORD-96223,45,Casque Bluetooth,38.65,2024-05-19,tiffany.gauthier@dataretail.com,2023-08-03,France,290,False,2026-03-26 10:30:03.543274
+ORD-54541,23,Laptop Pro 15,189.58,2024-03-14,wendy.andré@dataretail.com,2022-09-13,Sénégal,548,False,2026-03-26 10:30:03.543274
+ORD-28595,48,Chargeur rapide,972.08,2024-02-16,william.fontaine@dataretail.com,2021-05-08,Belgique,1014,False,2026-03-26 10:30:03.543274
+ORD-65028,30,Webcam HD,165.83,2024-06-08,diane.martinez@dataretail.com,2021-02-07,Belgique,1217,False,2026-03-26 10:30:03.543274
+ORD-84395,39,Souris sans fil,884.5,2024-03-20,mathilde.roussel@dataretail.com,2021-07-25,France,969,False,2026-03-26 10:30:03.543274
+ORD-98338,6,Casque Bluetooth,448.67,2024-08-05,françois.richard@dataretail.com,2022-06-28,Belgique,769,True,2026-03-26 10:30:03.543274
+ORD-45804,14,Stylet tactile,517.21,2024-06-25,nicolas.michel@dataretail.com,2022-11-08,Suisse,595,False,2026-03-26 10:30:03.543274
+ORD-88554,4,Laptop Pro 15,212.37,2024-04-18,david.thomas@dataretail.com,2021-05-17,Belgique,1067,True,2026-03-26 10:30:03.543274
+ORD-47938,21,Souris sans fil,17.64,2024-08-08,ursula.morel@dataretail.com,2022-01-07,Belgique,944,False,2026-03-26 10:30:03.543274
+ORD-40161,33,Disque SSD 1To,835.01,2024-06-30,guillaume.faure@dataretail.com,2021-03-25,Tunisie,1193,False,2026-03-26 10:30:03.543274
+ORD-15544,28,Laptop Pro 15,465.15,2024-02-09,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,525,False,2026-03-26 10:30:03.543274
+ORD-52568,11,Stylet tactile,948.13,2024-08-23,karine.simon@dataretail.com,2023-04-23,Tunisie,488,False,2026-03-26 10:30:03.543274
+ORD-21551,28,Imprimante laser,114.79,2024-08-11,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,709,False,2026-03-26 10:30:03.543274
+ORD-61873,20,Support PC portable,346.11,2024-06-19,théo.fournier@dataretail.com,2022-03-12,Canada,830,False,2026-03-26 10:30:03.543274
+ORD-92998,8,Disque SSD 1To,514.84,2024-06-27,hugo.durand@dataretail.com,2021-07-24,Tunisie,1069,True,2026-03-26 10:30:03.543274
+ORD-94599,10,"Écran 27""",111.77,2024-05-11,julien.moreau@dataretail.com,2023-03-23,Maroc,415,True,2026-03-26 10:30:03.543274
+ORD-95918,5,Clavier mécanique,951.77,2024-11-17,emma.robert@dataretail.com,2021-09-15,Tunisie,1159,True,2026-03-26 10:30:03.543274
+ORD-85952,29,Chargeur rapide,924.9,2024-10-16,charles.françois@dataretail.com,2023-08-25,Suisse,418,False,2026-03-26 10:30:03.543274
+ORD-52363,41,Webcam HD,159.44,2024-02-04,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,676,False,2026-03-26 10:30:03.543274
+ORD-46002,38,Laptop Pro 15,358.41,2024-02-07,laurent.henry@dataretail.com,2021-05-20,Tunisie,993,False,2026-03-26 10:30:03.543274
+ORD-17456,24,Imprimante laser,294.2,2024-11-26,xavier.lefevre@dataretail.com,2023-09-28,France,425,False,2026-03-26 10:30:03.543274
+ORD-90610,39,Disque SSD 1To,390.63,2024-10-24,mathilde.roussel@dataretail.com,2021-07-25,France,1187,False,2026-03-26 10:30:03.543274
+ORD-15376,29,Scanner portable,811.71,2024-11-29,charles.françois@dataretail.com,2023-08-25,Suisse,462,False,2026-03-26 10:30:03.543274
+ORD-75715,10,Laptop Pro 15,456.01,2024-06-24,julien.moreau@dataretail.com,2023-03-23,Maroc,459,True,2026-03-26 10:30:03.543274
+ORD-94689,12,Laptop Pro 15,255.26,2024-08-12,lucas.laurent@dataretail.com,2023-06-02,Canada,437,False,2026-03-26 10:30:03.543274
+ORD-89928,11,Webcam HD,379.11,2024-05-24,karine.simon@dataretail.com,2023-04-23,Tunisie,397,False,2026-03-26 10:30:03.543274
+ORD-98984,39,Laptop Pro 15,791.32,2024-11-27,mathilde.roussel@dataretail.com,2021-07-25,France,1221,False,2026-03-26 10:30:03.543274
+ORD-83133,44,Hub USB-C,291.3,2024-12-02,samuel.clement@dataretail.com,2021-12-29,Sénégal,1069,False,2026-03-26 10:30:03.543274
+ORD-29709,22,Souris sans fil,586.9,2024-03-13,victor.girard@dataretail.com,2022-04-19,Canada,694,False,2026-03-26 10:30:03.543274
+ORD-95990,45,Chargeur rapide,398.03,2024-10-31,tiffany.gauthier@dataretail.com,2023-08-03,France,455,False,2026-03-26 10:30:03.543274
+ORD-83259,25,Chargeur rapide,793.74,2024-03-06,yasmine.mercier@dataretail.com,2022-01-02,Suisse,794,False,2026-03-26 10:30:03.543274
+ORD-50483,12,"Écran 27""",348.31,2024-09-05,lucas.laurent@dataretail.com,2023-06-02,Canada,461,False,2026-03-26 10:30:03.543274
+ORD-30308,5,Casque Bluetooth,845.97,2024-02-21,emma.robert@dataretail.com,2021-09-15,Tunisie,889,True,2026-03-26 10:30:03.543274
+ORD-79013,3,Chargeur rapide,343.39,2024-11-12,claire.dubois@dataretail.com,2021-08-24,Canada,1176,True,2026-03-26 10:30:03.543274
+ORD-31266,12,Imprimante laser,695.91,2024-11-15,lucas.laurent@dataretail.com,2023-06-02,Canada,532,False,2026-03-26 10:30:03.543274
+ORD-67366,3,Hub USB-C,370.65,2024-05-01,claire.dubois@dataretail.com,2021-08-24,Canada,981,True,2026-03-26 10:30:03.543274
+ORD-68841,15,Disque SSD 1To,246.77,2024-08-28,océane.garcia@dataretail.com,2023-05-21,Maroc,465,False,2026-03-26 10:30:03.543274
+ORD-98907,37,Tapis de souris XL,467.05,2024-05-24,karen.muller@dataretail.com,2022-01-26,Maroc,849,False,2026-03-26 10:30:03.543274
+ORD-64874,11,Imprimante laser,207.69,2024-11-05,karine.simon@dataretail.com,2023-04-23,Tunisie,562,False,2026-03-26 10:30:03.543274
+ORD-94040,31,Imprimante laser,377.49,2024-02-22,edouard.legrand@dataretail.com,2021-01-24,Suisse,1124,False,2026-03-26 10:30:03.543274
+ORD-26341,19,Souris sans fil,765.48,2024-05-19,sébastien.vincent@dataretail.com,2021-10-03,France,959,False,2026-03-26 10:30:03.543274
+ORD-67340,6,Scanner portable,229.81,2024-08-18,françois.richard@dataretail.com,2022-06-28,Belgique,782,True,2026-03-26 10:30:03.543274
+ORD-64381,4,Hub USB-C,506.98,2024-04-30,david.thomas@dataretail.com,2021-05-17,Belgique,1079,True,2026-03-26 10:30:03.543274
+ORD-39430,2,Webcam HD,931.51,2024-11-28,bob.bernard@dataretail.com,2021-07-24,Suisse,1223,True,2026-03-26 10:30:03.543274
+ORD-15020,19,Scanner portable,831.45,2024-12-22,sébastien.vincent@dataretail.com,2021-10-03,France,1176,False,2026-03-26 10:30:03.543274
+ORD-29597,36,Support PC portable,612.78,2024-08-04,jérémy.guerin@dataretail.com,2022-09-25,France,679,False,2026-03-26 10:30:03.543274
+ORD-49472,8,Laptop Pro 15,246.05,2024-11-23,hugo.durand@dataretail.com,2021-07-24,Tunisie,1218,True,2026-03-26 10:30:03.543274
+ORD-24530,32,RAM 16Go,540.68,2024-11-19,fanny.garnier@dataretail.com,2022-05-01,Tunisie,933,False,2026-03-26 10:30:03.543274
+ORD-28818,19,Hub USB-C,11.54,2024-06-29,sébastien.vincent@dataretail.com,2021-10-03,France,1000,False,2026-03-26 10:30:03.543274
+ORD-97080,43,Souris sans fil,528.24,2024-07-03,roxane.mathieu@dataretail.com,2023-04-25,Suisse,435,False,2026-03-26 10:30:03.543274
+ORD-58929,17,Support PC portable,26.07,2024-02-04,quentin.bertrand@dataretail.com,2022-04-26,Maroc,649,False,2026-03-26 10:30:03.543274
+ORD-92346,7,Stylet tactile,586.07,2024-06-19,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,305,True,2026-03-26 10:30:03.543274
+ORD-54374,42,Clavier mécanique,832.07,2024-12-16,patrick.morin@dataretail.com,2022-07-13,Tunisie,887,False,2026-03-26 10:30:03.543274
+ORD-36144,3,Webcam HD,934.03,2024-09-20,claire.dubois@dataretail.com,2021-08-24,Canada,1123,True,2026-03-26 10:30:03.543274
+ORD-72049,17,Laptop Pro 15,755.75,2024-04-07,quentin.bertrand@dataretail.com,2022-04-26,Maroc,712,False,2026-03-26 10:30:03.543274
+ORD-16265,42,Webcam HD,280.47,2024-07-07,patrick.morin@dataretail.com,2022-07-13,Tunisie,725,False,2026-03-26 10:30:03.543274
+ORD-67637,25,Webcam HD,973.98,2024-09-11,yasmine.mercier@dataretail.com,2022-01-02,Suisse,983,False,2026-03-26 10:30:03.543274
+ORD-78062,18,Stylet tactile,91.78,2024-08-05,rachel.roux@dataretail.com,2022-02-17,France,900,False,2026-03-26 10:30:03.543274
+ORD-33652,35,Casque Bluetooth,327.99,2024-02-10,isabelle.blanc@dataretail.com,2021-05-27,Luxembourg,989,False,2026-03-26 10:30:03.543274
+ORD-68447,39,Support PC portable,431.84,2024-12-19,mathilde.roussel@dataretail.com,2021-07-25,France,1243,False,2026-03-26 10:30:03.543274
+ORD-56210,40,Hub USB-C,281.8,2024-01-30,nathan.nicolas@dataretail.com,2022-10-18,Canada,469,False,2026-03-26 10:30:03.543274
+ORD-57619,33,Stylet tactile,752.39,2024-03-22,guillaume.faure@dataretail.com,2021-03-25,Tunisie,1093,False,2026-03-26 10:30:03.543274
+ORD-89635,44,Stylet tactile,443.78,2024-03-05,samuel.clement@dataretail.com,2021-12-29,Sénégal,797,False,2026-03-26 10:30:03.543274
+ORD-58015,24,Hub USB-C,949.96,2024-01-17,xavier.lefevre@dataretail.com,2023-09-28,France,111,False,2026-03-26 10:30:03.543274
+ORD-58623,24,Tapis de souris XL,765.44,2024-10-20,xavier.lefevre@dataretail.com,2023-09-28,France,388,False,2026-03-26 10:30:03.543274
+ORD-77861,25,Scanner portable,566.05,2024-05-14,yasmine.mercier@dataretail.com,2022-01-02,Suisse,863,False,2026-03-26 10:30:03.543274
+ORD-38124,40,Casque Bluetooth,697.03,2024-09-08,nathan.nicolas@dataretail.com,2022-10-18,Canada,691,False,2026-03-26 10:30:03.543274
+ORD-19706,29,Clavier mécanique,899.68,2024-08-15,charles.françois@dataretail.com,2023-08-25,Suisse,356,False,2026-03-26 10:30:03.543274
+ORD-51889,43,Webcam HD,712.44,2024-10-08,roxane.mathieu@dataretail.com,2023-04-25,Suisse,532,False,2026-03-26 10:30:03.543274
+ORD-30644,46,Support PC portable,928.04,2024-11-22,ugo.dumont@dataretail.com,2021-05-15,Suisse,1287,False,2026-03-26 10:30:03.543274
+ORD-82616,37,Webcam HD,472.72,2024-10-09,karen.muller@dataretail.com,2022-01-26,Maroc,987,False,2026-03-26 10:30:03.543274
+ORD-18617,20,Hub USB-C,999.59,2024-09-02,théo.fournier@dataretail.com,2022-03-12,Canada,905,False,2026-03-26 10:30:03.543274
+ORD-85353,5,Clavier mécanique,972.65,2024-11-24,emma.robert@dataretail.com,2021-09-15,Tunisie,1166,True,2026-03-26 10:30:03.543274
+ORD-77811,23,Clavier mécanique,879.17,2024-10-09,wendy.andré@dataretail.com,2022-09-13,Sénégal,757,False,2026-03-26 10:30:03.543274
+ORD-26912,28,Disque SSD 1To,911.6,2024-01-29,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,514,False,2026-03-26 10:30:03.543274
+ORD-49862,11,Clavier mécanique,329.42,2024-12-29,karine.simon@dataretail.com,2023-04-23,Tunisie,616,False,2026-03-26 10:30:03.543274
+ORD-78012,19,Imprimante laser,88.06,2024-04-10,sébastien.vincent@dataretail.com,2021-10-03,France,920,False,2026-03-26 10:30:03.543274
+ORD-26406,41,Casque Bluetooth,618.27,2024-02-17,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,689,False,2026-03-26 10:30:03.543274
+ORD-86106,10,Clavier mécanique,662.14,2024-11-05,julien.moreau@dataretail.com,2023-03-23,Maroc,593,True,2026-03-26 10:30:03.543274
+ORD-15399,2,Souris sans fil,55.0,2024-11-24,bob.bernard@dataretail.com,2021-07-24,Suisse,1219,True,2026-03-26 10:30:03.543274
+ORD-81509,19,Chargeur rapide,957.07,2024-09-04,sébastien.vincent@dataretail.com,2021-10-03,France,1067,False,2026-03-26 10:30:03.543274
+ORD-63227,20,Tapis de souris XL,82.23,2024-01-31,théo.fournier@dataretail.com,2022-03-12,Canada,690,False,2026-03-26 10:30:03.543274
+ORD-70875,14,Webcam HD,610.58,2024-06-09,nicolas.michel@dataretail.com,2022-11-08,Suisse,579,False,2026-03-26 10:30:03.543274
+ORD-55268,26,Clavier mécanique,763.05,2024-09-20,zoé.dupont@dataretail.com,2021-08-10,Suisse,1137,False,2026-03-26 10:30:03.543274
+ORD-71141,8,Casque Bluetooth,455.09,2024-03-13,hugo.durand@dataretail.com,2021-07-24,Tunisie,963,True,2026-03-26 10:30:03.543274
+ORD-60351,40,Hub USB-C,255.78,2024-03-22,nathan.nicolas@dataretail.com,2022-10-18,Canada,521,False,2026-03-26 10:30:03.543274
+ORD-50988,13,Stylet tactile,167.74,2024-09-20,marie.lefebvre@dataretail.com,2021-06-05,Sénégal,1203,False,2026-03-26 10:30:03.543274
+ORD-75191,2,Souris sans fil,945.77,2024-09-15,bob.bernard@dataretail.com,2021-07-24,Suisse,1149,True,2026-03-26 10:30:03.543274
+ORD-86460,23,Laptop Pro 15,60.03,2024-09-10,wendy.andré@dataretail.com,2022-09-13,Sénégal,728,False,2026-03-26 10:30:03.543274
+ORD-98148,31,Casque Bluetooth,541.31,2024-02-25,edouard.legrand@dataretail.com,2021-01-24,Suisse,1127,False,2026-03-26 10:30:03.543274
+ORD-57943,49,Hub USB-C,372.27,2024-07-24,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1179,False,2026-03-26 10:30:03.543274
+ORD-57516,36,Casque Bluetooth,82.79,2024-09-15,jérémy.guerin@dataretail.com,2022-09-25,France,721,False,2026-03-26 10:30:03.543274
+ORD-91689,44,RAM 16Go,127.61,2024-02-19,samuel.clement@dataretail.com,2021-12-29,Sénégal,782,False,2026-03-26 10:30:03.543274
+ORD-54444,36,Webcam HD,757.41,2024-04-11,jérémy.guerin@dataretail.com,2022-09-25,France,564,False,2026-03-26 10:30:03.543274
+ORD-15276,3,Laptop Pro 15,145.66,2024-06-19,claire.dubois@dataretail.com,2021-08-24,Canada,1030,True,2026-03-26 10:30:03.543274
+ORD-29521,39,Scanner portable,520.34,2024-06-16,mathilde.roussel@dataretail.com,2021-07-25,France,1057,False,2026-03-26 10:30:03.543274
+ORD-61505,40,Support PC portable,844.17,2024-10-30,nathan.nicolas@dataretail.com,2022-10-18,Canada,743,False,2026-03-26 10:30:03.543274
+ORD-79774,32,Support PC portable,567.29,2024-08-31,fanny.garnier@dataretail.com,2022-05-01,Tunisie,853,False,2026-03-26 10:30:03.543274
+ORD-98317,8,Hub USB-C,587.86,2024-12-18,hugo.durand@dataretail.com,2021-07-24,Tunisie,1243,True,2026-03-26 10:30:03.543274
+ORD-44803,42,Stylet tactile,972.33,2024-10-23,patrick.morin@dataretail.com,2022-07-13,Tunisie,833,False,2026-03-26 10:30:03.543274
+ORD-86483,31,Clavier mécanique,528.98,2024-11-13,edouard.legrand@dataretail.com,2021-01-24,Suisse,1389,False,2026-03-26 10:30:03.543274
+ORD-51116,27,Clavier mécanique,418.82,2024-04-14,antoine.lambert@dataretail.com,2023-02-05,Sénégal,434,False,2026-03-26 10:30:03.543274
+ORD-71814,48,Support PC portable,71.65,2024-03-11,william.fontaine@dataretail.com,2021-05-08,Belgique,1038,False,2026-03-26 10:30:03.543274
+ORD-96799,31,Disque SSD 1To,383.05,2024-03-29,edouard.legrand@dataretail.com,2021-01-24,Suisse,1160,False,2026-03-26 10:30:03.543274
+ORD-81601,23,Chargeur rapide,774.26,2024-12-14,wendy.andré@dataretail.com,2022-09-13,Sénégal,823,False,2026-03-26 10:30:03.543274
+ORD-89963,31,"Écran 27""",957.75,2024-05-22,edouard.legrand@dataretail.com,2021-01-24,Suisse,1214,False,2026-03-26 10:30:03.543274
+ORD-49008,50,Casque Bluetooth,707.84,2024-12-19,yann.robin@dataretail.com,2021-10-31,Suisse,1145,False,2026-03-26 10:30:03.543274
+ORD-55718,36,Scanner portable,935.13,2024-05-20,jérémy.guerin@dataretail.com,2022-09-25,France,603,False,2026-03-26 10:30:03.543274
+ORD-81197,25,Scanner portable,980.35,2024-06-25,yasmine.mercier@dataretail.com,2022-01-02,Suisse,905,False,2026-03-26 10:30:03.543274
+ORD-48070,3,Casque Bluetooth,955.75,2024-02-10,claire.dubois@dataretail.com,2021-08-24,Canada,900,True,2026-03-26 10:30:03.543274
+ORD-43612,48,Tapis de souris XL,221.84,2024-10-02,william.fontaine@dataretail.com,2021-05-08,Belgique,1243,False,2026-03-26 10:30:03.543274
+ORD-45601,9,Souris sans fil,619.51,2024-10-27,inès.leroy@dataretail.com,2023-01-10,Canada,656,True,2026-03-26 10:30:03.543274
+ORD-79604,15,Chargeur rapide,240.5,2024-02-21,océane.garcia@dataretail.com,2023-05-21,Maroc,276,False,2026-03-26 10:30:03.543274
+ORD-23178,44,Stylet tactile,146.08,2024-10-08,samuel.clement@dataretail.com,2021-12-29,Sénégal,1014,False,2026-03-26 10:30:03.543274
+ORD-95575,31,Tapis de souris XL,654.02,2024-05-27,edouard.legrand@dataretail.com,2021-01-24,Suisse,1219,False,2026-03-26 10:30:03.543274
+ORD-21725,42,RAM 16Go,239.89,2024-01-20,patrick.morin@dataretail.com,2022-07-13,Tunisie,556,False,2026-03-26 10:30:03.543274
+ORD-33040,3,Imprimante laser,403.01,2024-09-10,claire.dubois@dataretail.com,2021-08-24,Canada,1113,True,2026-03-26 10:30:03.543274
+ORD-47941,3,Laptop Pro 15,305.4,2024-11-04,claire.dubois@dataretail.com,2021-08-24,Canada,1168,True,2026-03-26 10:30:03.543274
+ORD-47298,30,Chargeur rapide,547.86,2024-09-09,diane.martinez@dataretail.com,2021-02-07,Belgique,1310,False,2026-03-26 10:30:03.543274
+ORD-76088,30,Casque Bluetooth,200.87,2024-02-27,diane.martinez@dataretail.com,2021-02-07,Belgique,1115,False,2026-03-26 10:30:03.543274
+ORD-94972,17,Support PC portable,194.33,2024-06-21,quentin.bertrand@dataretail.com,2022-04-26,Maroc,787,False,2026-03-26 10:30:03.543274
+ORD-35318,12,RAM 16Go,857.58,2024-07-26,lucas.laurent@dataretail.com,2023-06-02,Canada,420,False,2026-03-26 10:30:03.543274
+ORD-21368,26,Chargeur rapide,104.42,2024-03-12,zoé.dupont@dataretail.com,2021-08-10,Suisse,945,False,2026-03-26 10:30:03.543274
+ORD-10895,17,Hub USB-C,243.16,2024-05-16,quentin.bertrand@dataretail.com,2022-04-26,Maroc,751,False,2026-03-26 10:30:03.543274
+ORD-85088,1,Casque Bluetooth,657.14,2024-12-20,alice.martin@dataretail.com,2022-02-18,Tunisie,1036,True,2026-03-26 10:30:03.543274
+ORD-71000,20,Clavier mécanique,411.35,2024-09-14,théo.fournier@dataretail.com,2022-03-12,Canada,917,False,2026-03-26 10:30:03.543274
+ORD-50760,45,Souris sans fil,642.31,2024-05-31,tiffany.gauthier@dataretail.com,2023-08-03,France,302,False,2026-03-26 10:30:03.543274
+ORD-27507,31,Clavier mécanique,460.42,2024-11-06,edouard.legrand@dataretail.com,2021-01-24,Suisse,1382,False,2026-03-26 10:30:03.543274
+ORD-71712,49,Disque SSD 1To,803.97,2024-04-21,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1085,False,2026-03-26 10:30:03.543274
+ORD-88094,6,Disque SSD 1To,452.27,2024-12-26,françois.richard@dataretail.com,2022-06-28,Belgique,912,True,2026-03-26 10:30:03.543274
+ORD-24707,4,Imprimante laser,552.16,2024-09-15,david.thomas@dataretail.com,2021-05-17,Belgique,1217,True,2026-03-26 10:30:03.543274
+ORD-31566,21,Imprimante laser,525.13,2024-02-29,ursula.morel@dataretail.com,2022-01-07,Belgique,783,False,2026-03-26 10:30:03.543274
+ORD-74071,6,Scanner portable,515.26,2024-01-29,françois.richard@dataretail.com,2022-06-28,Belgique,580,True,2026-03-26 10:30:03.543274
+ORD-69873,37,Laptop Pro 15,563.2,2024-12-10,karen.muller@dataretail.com,2022-01-26,Maroc,1049,False,2026-03-26 10:30:03.543274
+ORD-61897,17,Imprimante laser,12.98,2024-04-21,quentin.bertrand@dataretail.com,2022-04-26,Maroc,726,False,2026-03-26 10:30:03.543274
+ORD-55158,45,Souris sans fil,545.74,2024-01-31,tiffany.gauthier@dataretail.com,2023-08-03,France,181,False,2026-03-26 10:30:03.543274
+ORD-71875,3,Casque Bluetooth,414.77,2024-03-10,claire.dubois@dataretail.com,2021-08-24,Canada,929,True,2026-03-26 10:30:03.543274
+ORD-94656,27,Webcam HD,992.92,2024-07-14,antoine.lambert@dataretail.com,2023-02-05,Sénégal,525,False,2026-03-26 10:30:03.543274
+ORD-59479,25,Souris sans fil,685.89,2024-12-04,yasmine.mercier@dataretail.com,2022-01-02,Suisse,1067,False,2026-03-26 10:30:03.543274
+ORD-55582,8,Clavier mécanique,992.91,2024-07-20,hugo.durand@dataretail.com,2021-07-24,Tunisie,1092,True,2026-03-26 10:30:03.543274
+ORD-39188,1,Stylet tactile,32.5,2024-06-01,alice.martin@dataretail.com,2022-02-18,Tunisie,834,True,2026-03-26 10:30:03.543274
+ORD-65591,35,Hub USB-C,825.12,2024-05-06,isabelle.blanc@dataretail.com,2021-05-27,Luxembourg,1075,False,2026-03-26 10:30:03.543274
+ORD-34704,47,Stylet tactile,121.71,2024-12-04,valérie.lopez@dataretail.com,2022-09-15,Tunisie,811,False,2026-03-26 10:30:03.543274
+ORD-16380,16,Support PC portable,53.78,2024-08-12,pierre.david@dataretail.com,2021-03-26,Belgique,1235,False,2026-03-26 10:30:03.543274
+ORD-17398,9,Disque SSD 1To,993.54,2024-04-29,inès.leroy@dataretail.com,2023-01-10,Canada,475,True,2026-03-26 10:30:03.543274
+ORD-51799,37,RAM 16Go,774.8,2024-06-13,karen.muller@dataretail.com,2022-01-26,Maroc,869,False,2026-03-26 10:30:03.543274
+ORD-96535,34,"Écran 27""",419.41,2024-05-20,hélène.rousseau@dataretail.com,2022-10-10,Belgique,588,False,2026-03-26 10:30:03.543274
+ORD-94320,43,Hub USB-C,787.94,2024-06-12,roxane.mathieu@dataretail.com,2023-04-25,Suisse,414,False,2026-03-26 10:30:03.543274
+ORD-49306,25,Clavier mécanique,756.86,2024-08-30,yasmine.mercier@dataretail.com,2022-01-02,Suisse,971,False,2026-03-26 10:30:03.543274
+ORD-28920,30,Scanner portable,67.04,2024-07-30,diane.martinez@dataretail.com,2021-02-07,Belgique,1269,False,2026-03-26 10:30:03.543274
+ORD-27575,25,"Écran 27""",262.44,2024-06-18,yasmine.mercier@dataretail.com,2022-01-02,Suisse,898,False,2026-03-26 10:30:03.543274
+ORD-58637,6,Disque SSD 1To,727.33,2024-04-07,françois.richard@dataretail.com,2022-06-28,Belgique,649,True,2026-03-26 10:30:03.543274
+ORD-89294,39,Laptop Pro 15,874.87,2024-04-06,mathilde.roussel@dataretail.com,2021-07-25,France,986,False,2026-03-26 10:30:03.543274
+ORD-98008,36,"Écran 27""",484.59,2024-06-19,jérémy.guerin@dataretail.com,2022-09-25,France,633,False,2026-03-26 10:30:03.543274
+ORD-37762,13,Support PC portable,126.13,2024-09-02,marie.lefebvre@dataretail.com,2021-06-05,Sénégal,1185,False,2026-03-26 10:30:03.543274
+ORD-36805,26,Scanner portable,246.93,2024-06-13,zoé.dupont@dataretail.com,2021-08-10,Suisse,1038,False,2026-03-26 10:30:03.543274
+ORD-79946,42,Webcam HD,315.33,2024-07-03,patrick.morin@dataretail.com,2022-07-13,Tunisie,721,False,2026-03-26 10:30:03.543274
+ORD-22924,47,Tapis de souris XL,764.0,2024-06-12,valérie.lopez@dataretail.com,2022-09-15,Tunisie,636,False,2026-03-26 10:30:03.543274
+ORD-86550,38,Support PC portable,423.39,2024-03-19,laurent.henry@dataretail.com,2021-05-20,Tunisie,1034,False,2026-03-26 10:30:03.543274
+ORD-84683,16,Tapis de souris XL,555.13,2024-12-16,pierre.david@dataretail.com,2021-03-26,Belgique,1361,False,2026-03-26 10:30:03.543274
+ORD-74044,47,Chargeur rapide,742.19,2024-08-23,valérie.lopez@dataretail.com,2022-09-15,Tunisie,708,False,2026-03-26 10:30:03.543274
+ORD-32185,9,Support PC portable,551.07,2024-04-04,inès.leroy@dataretail.com,2023-01-10,Canada,450,True,2026-03-26 10:30:03.543274
+ORD-94123,4,Disque SSD 1To,43.48,2024-02-08,david.thomas@dataretail.com,2021-05-17,Belgique,997,True,2026-03-26 10:30:03.543274
+ORD-10836,27,Clavier mécanique,844.11,2024-04-28,antoine.lambert@dataretail.com,2023-02-05,Sénégal,448,False,2026-03-26 10:30:03.543274
+ORD-38668,33,Tapis de souris XL,379.46,2024-11-12,guillaume.faure@dataretail.com,2021-03-25,Tunisie,1328,False,2026-03-26 10:30:03.543274
+ORD-98346,28,Stylet tactile,940.3,2024-04-01,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,577,False,2026-03-26 10:30:03.543274
+ORD-29516,16,"Écran 27""",623.57,2024-05-09,pierre.david@dataretail.com,2021-03-26,Belgique,1140,False,2026-03-26 10:30:03.543274
+ORD-62022,6,Webcam HD,959.69,2024-08-23,françois.richard@dataretail.com,2022-06-28,Belgique,787,True,2026-03-26 10:30:03.543274
+ORD-39603,20,Chargeur rapide,829.77,2024-02-11,théo.fournier@dataretail.com,2022-03-12,Canada,701,False,2026-03-26 10:30:03.543274
+ORD-14152,6,Hub USB-C,385.46,2024-10-09,françois.richard@dataretail.com,2022-06-28,Belgique,834,True,2026-03-26 10:30:03.543274
+ORD-32463,6,Tapis de souris XL,846.87,2024-11-26,françois.richard@dataretail.com,2022-06-28,Belgique,882,True,2026-03-26 10:30:03.543274
+ORD-22499,34,Scanner portable,52.12,2024-04-18,hélène.rousseau@dataretail.com,2022-10-10,Belgique,556,False,2026-03-26 10:30:03.543274
+ORD-84289,31,Casque Bluetooth,56.09,2024-02-08,edouard.legrand@dataretail.com,2021-01-24,Suisse,1110,False,2026-03-26 10:30:03.543274
+ORD-28899,49,Imprimante laser,715.57,2024-07-22,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1177,False,2026-03-26 10:30:03.543274
+ORD-83919,16,RAM 16Go,836.29,2024-07-18,pierre.david@dataretail.com,2021-03-26,Belgique,1210,False,2026-03-26 10:30:03.543274
+ORD-60311,49,Support PC portable,148.54,2024-12-18,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1326,False,2026-03-26 10:30:03.543274
+ORD-55332,4,Souris sans fil,442.71,2024-02-08,david.thomas@dataretail.com,2021-05-17,Belgique,997,True,2026-03-26 10:30:03.543274
+ORD-88067,26,Stylet tactile,333.1,2024-11-20,zoé.dupont@dataretail.com,2021-08-10,Suisse,1198,False,2026-03-26 10:30:03.543274
+ORD-74304,15,Webcam HD,557.5,2024-07-11,océane.garcia@dataretail.com,2023-05-21,Maroc,417,False,2026-03-26 10:30:03.543274
+ORD-96595,25,Souris sans fil,774.44,2024-05-31,yasmine.mercier@dataretail.com,2022-01-02,Suisse,880,False,2026-03-26 10:30:03.543274
+ORD-20752,18,Clavier mécanique,386.19,2024-11-20,rachel.roux@dataretail.com,2022-02-17,France,1007,False,2026-03-26 10:30:03.543274
+ORD-57277,7,Souris sans fil,15.13,2024-06-06,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,292,True,2026-03-26 10:30:03.543274
+ORD-23399,9,Souris sans fil,195.51,2024-08-17,inès.leroy@dataretail.com,2023-01-10,Canada,585,True,2026-03-26 10:30:03.543274
+ORD-23538,2,Souris sans fil,360.37,2024-02-17,bob.bernard@dataretail.com,2021-07-24,Suisse,938,True,2026-03-26 10:30:03.543274
+ORD-60493,1,Casque Bluetooth,419.66,2024-02-13,alice.martin@dataretail.com,2022-02-18,Tunisie,725,True,2026-03-26 10:30:03.543274
+ORD-41816,37,Disque SSD 1To,177.88,2024-07-13,karen.muller@dataretail.com,2022-01-26,Maroc,899,False,2026-03-26 10:30:03.543274
+ORD-45180,32,Clavier mécanique,72.62,2024-08-10,fanny.garnier@dataretail.com,2022-05-01,Tunisie,832,False,2026-03-26 10:30:03.543274
+ORD-20082,24,Casque Bluetooth,944.77,2024-11-16,xavier.lefevre@dataretail.com,2023-09-28,France,415,False,2026-03-26 10:30:03.543274
+ORD-70012,7,Clavier mécanique,311.6,2024-07-21,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,337,True,2026-03-26 10:30:03.543274
+ORD-53193,29,Webcam HD,436.3,2024-11-29,charles.françois@dataretail.com,2023-08-25,Suisse,462,False,2026-03-26 10:30:03.543274
+ORD-52030,39,Support PC portable,208.83,2024-06-09,mathilde.roussel@dataretail.com,2021-07-25,France,1050,False,2026-03-26 10:30:03.543274
+ORD-51830,19,Support PC portable,698.0,2024-09-08,sébastien.vincent@dataretail.com,2021-10-03,France,1071,False,2026-03-26 10:30:03.543274
+ORD-52714,25,Casque Bluetooth,818.32,2024-07-20,yasmine.mercier@dataretail.com,2022-01-02,Suisse,930,False,2026-03-26 10:30:03.543274
+ORD-37479,29,Stylet tactile,298.41,2024-12-20,charles.françois@dataretail.com,2023-08-25,Suisse,483,False,2026-03-26 10:30:03.543274
+ORD-63627,44,Tapis de souris XL,147.78,2024-06-04,samuel.clement@dataretail.com,2021-12-29,Sénégal,888,False,2026-03-26 10:30:03.543274
+ORD-65460,25,Souris sans fil,454.57,2024-11-02,yasmine.mercier@dataretail.com,2022-01-02,Suisse,1035,False,2026-03-26 10:30:03.543274
+ORD-76402,45,Hub USB-C,548.2,2024-07-03,tiffany.gauthier@dataretail.com,2023-08-03,France,335,False,2026-03-26 10:30:03.543274
+ORD-87833,41,Scanner portable,94.12,2024-05-07,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,769,False,2026-03-26 10:30:03.543274
+ORD-94803,40,Laptop Pro 15,567.58,2024-11-26,nathan.nicolas@dataretail.com,2022-10-18,Canada,770,False,2026-03-26 10:30:03.543274
+ORD-53463,28,Souris sans fil,20.43,2024-05-12,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,618,False,2026-03-26 10:30:03.543274
+ORD-83137,38,Support PC portable,579.47,2024-08-16,laurent.henry@dataretail.com,2021-05-20,Tunisie,1184,False,2026-03-26 10:30:03.543274
+ORD-99070,38,Support PC portable,505.45,2024-06-25,laurent.henry@dataretail.com,2021-05-20,Tunisie,1132,False,2026-03-26 10:30:03.543274
+ORD-48722,27,Scanner portable,962.1,2024-02-29,antoine.lambert@dataretail.com,2023-02-05,Sénégal,389,False,2026-03-26 10:30:03.543274
+ORD-55656,20,Webcam HD,460.77,2024-04-15,théo.fournier@dataretail.com,2022-03-12,Canada,765,False,2026-03-26 10:30:03.543274
+ORD-22795,29,Support PC portable,699.79,2024-06-12,charles.françois@dataretail.com,2023-08-25,Suisse,292,False,2026-03-26 10:30:03.543274
+ORD-25084,2,Imprimante laser,349.64,2024-02-25,bob.bernard@dataretail.com,2021-07-24,Suisse,946,True,2026-03-26 10:30:03.543274
+ORD-41970,34,Clavier mécanique,556.38,2024-06-18,hélène.rousseau@dataretail.com,2022-10-10,Belgique,617,False,2026-03-26 10:30:03.543274
+ORD-40389,26,Chargeur rapide,192.6,2024-11-23,zoé.dupont@dataretail.com,2021-08-10,Suisse,1201,False,2026-03-26 10:30:03.543274
+ORD-46483,49,Support PC portable,810.63,2024-02-02,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1006,False,2026-03-26 10:30:03.543274
+ORD-80371,12,Webcam HD,332.72,2024-08-22,lucas.laurent@dataretail.com,2023-06-02,Canada,447,False,2026-03-26 10:30:03.543274
+ORD-74157,34,Chargeur rapide,320.26,2024-07-17,hélène.rousseau@dataretail.com,2022-10-10,Belgique,646,False,2026-03-26 10:30:03.543274
+ORD-55603,23,Imprimante laser,463.27,2024-03-29,wendy.andré@dataretail.com,2022-09-13,Sénégal,563,False,2026-03-26 10:30:03.543274
+ORD-48986,40,RAM 16Go,93.89,2024-03-09,nathan.nicolas@dataretail.com,2022-10-18,Canada,508,False,2026-03-26 10:30:03.543274
+ORD-25328,12,Webcam HD,696.49,2024-09-18,lucas.laurent@dataretail.com,2023-06-02,Canada,474,False,2026-03-26 10:30:03.543274
+ORD-85340,25,Hub USB-C,193.89,2024-11-21,yasmine.mercier@dataretail.com,2022-01-02,Suisse,1054,False,2026-03-26 10:30:03.543274
+ORD-32706,36,Clavier mécanique,494.74,2024-03-12,jérémy.guerin@dataretail.com,2022-09-25,France,534,False,2026-03-26 10:30:03.543274
+ORD-91187,4,Imprimante laser,365.44,2024-01-05,david.thomas@dataretail.com,2021-05-17,Belgique,963,True,2026-03-26 10:30:03.543274
+ORD-60324,36,Disque SSD 1To,656.53,2024-07-28,jérémy.guerin@dataretail.com,2022-09-25,France,672,False,2026-03-26 10:30:03.543274
+ORD-68176,32,Clavier mécanique,91.83,2024-01-16,fanny.garnier@dataretail.com,2022-05-01,Tunisie,625,False,2026-03-26 10:30:03.543274
+ORD-14285,18,"Écran 27""",542.22,2024-03-27,rachel.roux@dataretail.com,2022-02-17,France,769,False,2026-03-26 10:30:03.543274
+ORD-74921,36,Disque SSD 1To,122.07,2024-02-28,jérémy.guerin@dataretail.com,2022-09-25,France,521,False,2026-03-26 10:30:03.543274
+ORD-58085,35,Imprimante laser,759.21,2024-08-13,isabelle.blanc@dataretail.com,2021-05-27,Luxembourg,1174,False,2026-03-26 10:30:03.543274
+ORD-23423,48,Imprimante laser,657.12,2024-05-06,william.fontaine@dataretail.com,2021-05-08,Belgique,1094,False,2026-03-26 10:30:03.543274
+ORD-68947,17,Webcam HD,863.57,2024-02-14,quentin.bertrand@dataretail.com,2022-04-26,Maroc,659,False,2026-03-26 10:30:03.543274
+ORD-41056,14,Stylet tactile,740.23,2024-12-18,nicolas.michel@dataretail.com,2022-11-08,Suisse,771,False,2026-03-26 10:30:03.543274
+ORD-92938,28,Clavier mécanique,619.98,2024-04-15,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,591,False,2026-03-26 10:30:03.543274
+ORD-84720,23,Disque SSD 1To,288.26,2024-10-02,wendy.andré@dataretail.com,2022-09-13,Sénégal,750,False,2026-03-26 10:30:03.543274
+ORD-48356,19,RAM 16Go,274.66,2024-09-20,sébastien.vincent@dataretail.com,2021-10-03,France,1083,False,2026-03-26 10:30:03.543274
+ORD-22481,9,Stylet tactile,787.82,2024-01-31,inès.leroy@dataretail.com,2023-01-10,Canada,386,True,2026-03-26 10:30:03.543274
+ORD-26631,45,Imprimante laser,141.35,2024-03-15,tiffany.gauthier@dataretail.com,2023-08-03,France,225,False,2026-03-26 10:30:03.543274
+ORD-98635,26,Tapis de souris XL,150.74,2024-11-19,zoé.dupont@dataretail.com,2021-08-10,Suisse,1197,False,2026-03-26 10:30:03.543274
+ORD-69243,5,Chargeur rapide,796.64,2024-02-17,emma.robert@dataretail.com,2021-09-15,Tunisie,885,True,2026-03-26 10:30:03.543274
+ORD-58374,30,Tapis de souris XL,334.01,2024-01-02,diane.martinez@dataretail.com,2021-02-07,Belgique,1059,False,2026-03-26 10:30:03.543274
+ORD-22208,47,Tapis de souris XL,638.48,2024-12-23,valérie.lopez@dataretail.com,2022-09-15,Tunisie,830,False,2026-03-26 10:30:03.543274
+ORD-80048,26,"Écran 27""",968.44,2024-04-18,zoé.dupont@dataretail.com,2021-08-10,Suisse,982,False,2026-03-26 10:30:03.543274
+ORD-47171,22,Disque SSD 1To,582.14,2024-10-16,victor.girard@dataretail.com,2022-04-19,Canada,911,False,2026-03-26 10:30:03.543274
+ORD-99463,49,Laptop Pro 15,55.47,2024-11-16,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1294,False,2026-03-26 10:30:03.543274
+ORD-26284,11,Tapis de souris XL,461.94,2024-08-07,karine.simon@dataretail.com,2023-04-23,Tunisie,472,False,2026-03-26 10:30:03.543274
+ORD-27290,42,Casque Bluetooth,167.38,2024-05-20,patrick.morin@dataretail.com,2022-07-13,Tunisie,677,False,2026-03-26 10:30:03.543274
+ORD-20803,24,Chargeur rapide,904.75,2024-03-25,xavier.lefevre@dataretail.com,2023-09-28,France,179,False,2026-03-26 10:30:03.543274
+ORD-25806,28,Support PC portable,140.84,2024-02-06,béatrice.bonnet@dataretail.com,2022-09-02,Suisse,522,False,2026-03-26 10:30:03.543274
+ORD-23425,7,Webcam HD,373.88,2024-06-02,gabrielle.petit@dataretail.com,2023-08-19,Sénégal,288,True,2026-03-26 10:30:03.543274
+ORD-27451,42,Chargeur rapide,151.41,2024-09-28,patrick.morin@dataretail.com,2022-07-13,Tunisie,808,False,2026-03-26 10:30:03.543274
+ORD-31511,29,Webcam HD,725.2,2024-11-17,charles.françois@dataretail.com,2023-08-25,Suisse,450,False,2026-03-26 10:30:03.543274
+ORD-90750,44,Tapis de souris XL,861.35,2024-02-14,samuel.clement@dataretail.com,2021-12-29,Sénégal,777,False,2026-03-26 10:30:03.543274
+ORD-26142,38,Support PC portable,390.18,2024-08-07,laurent.henry@dataretail.com,2021-05-20,Tunisie,1175,False,2026-03-26 10:30:03.543274
+ORD-46302,42,Souris sans fil,255.68,2024-11-03,patrick.morin@dataretail.com,2022-07-13,Tunisie,844,False,2026-03-26 10:30:03.543274
+ORD-13515,43,Scanner portable,308.62,2024-09-22,roxane.mathieu@dataretail.com,2023-04-25,Suisse,516,False,2026-03-26 10:30:03.543274
+ORD-61347,19,Chargeur rapide,64.01,2024-05-02,sébastien.vincent@dataretail.com,2021-10-03,France,942,False,2026-03-26 10:30:03.543274
+ORD-75481,41,RAM 16Go,80.29,2024-01-07,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,648,False,2026-03-26 10:30:03.543274
+ORD-27299,25,Imprimante laser,840.57,2024-08-03,yasmine.mercier@dataretail.com,2022-01-02,Suisse,944,False,2026-03-26 10:30:03.543274
+ORD-17925,26,Disque SSD 1To,293.61,2024-12-30,zoé.dupont@dataretail.com,2021-08-10,Suisse,1238,False,2026-03-26 10:30:03.543274
+ORD-62727,6,Chargeur rapide,541.19,2024-11-11,françois.richard@dataretail.com,2022-06-28,Belgique,867,True,2026-03-26 10:30:03.543274
+ORD-20357,33,Scanner portable,211.16,2024-03-20,guillaume.faure@dataretail.com,2021-03-25,Tunisie,1091,False,2026-03-26 10:30:03.543274
+ORD-93138,49,Imprimante laser,653.33,2024-11-25,xénia.chevalier@dataretail.com,2021-05-02,Suisse,1303,False,2026-03-26 10:30:03.543274
+ORD-41278,4,"Écran 27""",95.34,2024-08-10,david.thomas@dataretail.com,2021-05-17,Belgique,1181,True,2026-03-26 10:30:03.543274
+ORD-17212,20,Chargeur rapide,744.27,2024-03-30,théo.fournier@dataretail.com,2022-03-12,Canada,749,False,2026-03-26 10:30:03.543274
+ORD-11487,11,Tapis de souris XL,953.48,2024-09-24,karine.simon@dataretail.com,2023-04-23,Tunisie,520,False,2026-03-26 10:30:03.543274
+ORD-43980,11,Webcam HD,135.65,2024-05-17,karine.simon@dataretail.com,2023-04-23,Tunisie,390,False,2026-03-26 10:30:03.543274
+ORD-13847,22,Stylet tactile,435.02,2024-09-25,victor.girard@dataretail.com,2022-04-19,Canada,890,False,2026-03-26 10:30:03.543274
+ORD-85582,41,Souris sans fil,501.18,2024-09-18,olivia.perrin@dataretail.com,2022-03-30,Luxembourg,903,False,2026-03-26 10:30:03.543274
+ORD-84302,11,Webcam HD,165.73,2024-02-22,karine.simon@dataretail.com,2023-04-23,Tunisie,305,False,2026-03-26 10:30:03.543274
+ORD-16026,31,Webcam HD,389.14,2024-03-17,edouard.legrand@dataretail.com,2021-01-24,Suisse,1148,False,2026-03-26 10:30:03.543274
+ORD-14635,36,Stylet tactile,914.8,2024-12-01,jérémy.guerin@dataretail.com,2022-09-25,France,798,False,2026-03-26 10:30:03.543274
+ORD-64559,47,Webcam HD,278.54,2024-02-09,valérie.lopez@dataretail.com,2022-09-15,Tunisie,512,False,2026-03-26 10:30:03.543274
+ORD-98254,4,Clavier mécanique,230.94,2024-09-21,david.thomas@dataretail.com,2021-05-17,Belgique,1223,True,2026-03-26 10:30:03.543274
+ORD-19034,30,Imprimante laser,289.47,2024-06-08,diane.martinez@dataretail.com,2021-02-07,Belgique,1217,False,2026-03-26 10:30:03.543274
+ORD-11044,24,"Écran 27""",298.67,2024-06-04,xavier.lefevre@dataretail.com,2023-09-28,France,250,False,2026-03-26 10:30:03.543274
+ORD-58270,38,Tapis de souris XL,997.8,2024-04-10,laurent.henry@dataretail.com,2021-05-20,Tunisie,1056,False,2026-03-26 10:30:03.543274
+ORD-42129,10,Laptop Pro 15,933.06,2024-01-13,julien.moreau@dataretail.com,2023-03-23,Maroc,296,True,2026-03-26 10:30:03.543274
+ORD-11257,22,Laptop Pro 15,761.33,2024-07-11,victor.girard@dataretail.com,2022-04-19,Canada,814,False,2026-03-26 10:30:03.543274
+ORD-23624,14,Disque SSD 1To,983.27,2024-08-02,nicolas.michel@dataretail.com,2022-11-08,Suisse,633,False,2026-03-26 10:30:03.543274
+ORD-28661,46,Casque Bluetooth,102.09,2024-04-28,ugo.dumont@dataretail.com,2021-05-15,Suisse,1079,False,2026-03-26 10:30:03.543274
+ORD-58823,30,Support PC portable,94.04,2024-02-18,diane.martinez@dataretail.com,2021-02-07,Belgique,1106,False,2026-03-26 10:30:03.543274
+ORD-61688,5,RAM 16Go,572.13,2024-08-10,emma.robert@dataretail.com,2021-09-15,Tunisie,1060,True,2026-03-26 10:30:03.543274
+ORD-48230,17,Imprimante laser,321.85,2024-07-20,quentin.bertrand@dataretail.com,2022-04-26,Maroc,816,False,2026-03-26 10:30:03.543274

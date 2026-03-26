@@ -1,0 +1,39 @@
+2026-03-26 09:59:47,467 - INFO - API: 10 lignes extraites
+2026-03-26 09:59:47,471 - ERROR - Erreur SQLite: Execution failed on sql 'SELECT customer_id, email, signup_date, country FROM customers': no such table: customers
+2026-03-26 09:59:47,498 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:04:18,972 - INFO - API: 10 lignes extraites
+2026-03-26 10:04:18,974 - ERROR - Erreur SQLite: Execution failed on sql 'SELECT * FROM customers': no such table: customers
+2026-03-26 10:04:18,987 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:09:25,477 - INFO - API: 10 lignes extraites
+2026-03-26 10:09:25,510 - INFO - SQLite: 10 lignes extraites
+2026-03-26 10:09:25,537 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:12:03,129 - INFO - API: 10 lignes extraites
+2026-03-26 10:12:03,162 - INFO - SQLite: 10 lignes extraites
+2026-03-26 10:12:03,192 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:12:03,235 - INFO - Transform: 95 lignes
+2026-03-26 10:12:03,263 - INFO - Load DB: 95 lignes
+2026-03-26 10:12:03,276 - INFO - CSV exporté: output/fact_orders_enriched_20260326_101203.csv
+2026-03-26 10:12:52,460 - INFO - API: 10 lignes extraites
+2026-03-26 10:12:52,497 - INFO - SQLite: 10 lignes extraites
+2026-03-26 10:12:52,513 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:12:52,541 - INFO - Transform: 95 lignes
+2026-03-26 10:12:52,558 - INFO - Load DB: 95 lignes
+2026-03-26 10:12:52,563 - INFO - CSV exporté: output/fact_orders_enriched_20260326_101252.csv
+2026-03-26 10:22:04,822 - INFO - API: 10 lignes extraites
+2026-03-26 10:22:04,862 - INFO - SQLite: 50 lignes extraites
+2026-03-26 10:22:04,879 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:22:04,911 - INFO - Transform: 455 lignes
+2026-03-26 10:22:04,932 - INFO - Load DB: 455 lignes
+2026-03-26 10:22:04,942 - INFO - CSV exporté: output/fact_orders_enriched_20260326_102204.csv
+2026-03-26 10:29:17,706 - INFO - API: 10 lignes extraites
+2026-03-26 10:29:17,711 - INFO - SQLite: 50 lignes extraites
+2026-03-26 10:29:17,719 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:29:17,779 - INFO - Transform: 455 lignes après transformation
+2026-03-26 10:29:17,800 - INFO - Load DB: 455 lignes insérées
+2026-03-26 10:29:17,807 - INFO - CSV exporté: output/fact_orders_enriched_20260326_102917.csv
+2026-03-26 10:30:03,517 - INFO - API: 10 lignes extraites
+2026-03-26 10:30:03,521 - INFO - SQLite: 50 lignes extraites
+2026-03-26 10:30:03,526 - INFO - CSV: 500 lignes extraites
+2026-03-26 10:30:03,559 - INFO - Transform: 455 lignes après transformation
+2026-03-26 10:30:03,580 - INFO - Load DB: 455 lignes insérées
+2026-03-26 10:30:03,587 - INFO - CSV exporté: output/fact_orders_enriched_20260326_103003.csv
