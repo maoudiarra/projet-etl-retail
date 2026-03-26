@@ -26,7 +26,7 @@ Le projet consiste à nettoyer, transformer et valider un jeu de données de ven
 
 ## 🏗️ Architecture du projet
 
-
+![alt text](image.png)
 
 ---
 
